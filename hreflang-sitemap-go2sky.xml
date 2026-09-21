@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- 저포드맵 다국어 묶음 -->
   <url>
     <loc>https://www.go2sky.kr/2026/09/ibs-low-fodmap-korean-diet.html</loc>
     <lastmod>2026-09-16</lastmod>
@@ -9,15 +12,17 @@
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/guia-dieta-low-fodmap-sindrome-intestino-irritavel.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/low-fodmap-diet-ibs-bloating-guide.html"/>
   </url>
+
   <url>
     <loc>https://www.go2sky.kr/2026/09/low-fodmap-diet-ibs-bloating-guide.html</loc>
     <lastmod>2026-09-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://www.go2sky.kr/2026/09/ibs-low-fodmap-korean-diet.html"/>
+    <xhtml:link rel="alternate" hre hreflang="ko-KR" href="https://www.go2sky.kr/2026/09/ibs-low-fodmap-korean-diet.html"/>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://www.go2sky.kr/2026/09/low-fodmap-diet-ibs-bloating-guide.html"/>
     <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.go2sky.kr/2026/09/guia-dieta-baja-en-fodmap-sindrome-intestino-irritable.html"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/guia-dieta-low-fodmap-sindrome-intestino-irritavel.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/low-fodmap-diet-ibs-bloating-guide.html"/>
   </url>
+
   <url>
     <loc>https://www.go2sky.kr/2026/09/guia-dieta-baja-en-fodmap-sindrome-intestino-irritable.html</loc>
     <lastmod>2026-09-16</lastmod>
@@ -27,6 +32,7 @@
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/guia-dieta-low-fodmap-sindrome-intestino-irritavel.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/low-fodmap-diet-ibs-bloating-guide.html"/>
   </url>
+
   <url>
     <loc>https://www.go2sky.kr/2026/09/guia-dieta-low-fodmap-sindrome-intestino-irritavel.html</loc>
     <lastmod>2026-09-16</lastmod>
@@ -36,4 +42,46 @@
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/guia-dieta-low-fodmap-sindrome-intestino-irritavel.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/low-fodmap-diet-ibs-bloating-guide.html"/>
   </url>
+
+  <!-- 기생충·암 다국어 묶음 -->
+  <url>
+    <loc>https://www.go2sky.kr/2026/09/parasites-cancer-antiparasitic-drugs.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://www.go2sky.kr/2026/09/parasites-cancer-antiparasitic-drugs.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.go2sky.kr/2026/09/parasitos-y-cancer-verdad-desparasitantes-salud.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/parasitas-e-cancer-verdades-mitos-vermifugos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://www.go2sky.kr/2026/09/parasites-cancer-antiparasitic-drugs.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.go2sky.kr/2026/09/parasitos-y-cancer-verdad-desparasitantes-salud.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/parasitas-e-cancer-verdades-mitos-vermifugos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.go2sky.kr/2026/09/parasitos-y-cancer-verdad-desparasitantes-salud.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://www.go2sky.kr/2026/09/parasites-cancer-antiparasitic-drugs.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.go2sky.kr/2026/09/parasitos-y-cancer-verdad-desparasitantes-salud.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/parasitas-e-cancer-verdades-mitos-vermifugos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.go2sky.kr/2026/09/parasitas-e-cancer-verdades-mitos-vermifugos.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://www.go2sky.kr/2026/09/parasites-cancer-antiparasitic-drugs.html"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.go2sky.kr/2026/09/parasitos-y-cancer-verdad-desparasitantes-salud.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.go2sky.kr/2026/09/parasitas-e-cancer-verdades-mitos-vermifugos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.go2sky.kr/2026/09/parasites-and-cancer-facts-deworming-risks.html"/>
+  </url>
+
 </urlset>
